@@ -1,0 +1,4 @@
+board -b 2x2
+action -t move -x 0 -y 0
+action -t touch
+action -t move -x 0 -y 0

@@ -1,0 +1,2 @@
+Board 2x2
+Burst 0 
